@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | paste -s | tr -d "[blank]i"
+cut -c 1 | paste -s | tr -d "[blank]"
